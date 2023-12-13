@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+  <Tracking>
+    <ImageTarget name="yin004" size="1.000000 0.976923" />
+    <ImageTarget name="yin003" size="1.000000 1.132155" />
+    <ImageTarget name="yin002" size="1.000000 0.995979" />
+    <ImageTarget name="yin001-html" size="1.000000 0.974935" />
+  </Tracking>
+</QCARConfig>
